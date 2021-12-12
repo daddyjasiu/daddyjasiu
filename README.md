@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sou00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-im-angel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hi-im-angel/hi-im-angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
