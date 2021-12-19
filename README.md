@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddyjasiu&exclude_repo=Random-Number-Generator,Slido-Calendars&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddyjasiu&exclude_repo=Trappy-Forest,Slido-Calendars&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hi-im-angel/hi-im-angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
