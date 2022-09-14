@@ -1,4 +1,8 @@
-### Hi there 👋 Feel free to have a look at what I've done so far!
+### Hi there 👋 
+
+## I'm Jan, I love mobile app development 📱!
+
+## Feel free to have a look at what I've done so far ⚡
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddyjasiu&exclude_repo=Trappy-Forest,Slido-Calendars,Breast-Cancer-Detection&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
